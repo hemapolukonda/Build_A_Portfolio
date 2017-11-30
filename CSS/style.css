@@ -1,0 +1,63 @@
+body {
+
+    background-color: lightgray;  
+}
+
+h4 {
+    display: flex;
+    flex: 1 auto;
+    position: relative;
+    margin: auto;
+    justify-content: center;
+    font: 150% Arial;
+    font-weight: normal;
+    padding-bottom: 1%;
+    top: 1%;
+    color: #1c478e;
+}
+
+h2 {
+    display: flex;
+    flex: 1 auto;
+    position: relative;
+    font: 120% Arial;
+    font-weight: normal;
+    padding: 1% 1% 0 0;
+    color: #054dbc;
+    overflow: hidden;
+    margin: 1% auto 2% 4%;
+}
+
+#details {
+    position: relative;
+    margin: auto;
+    text-align: left;
+    font-weight: normal;
+    padding: 0;
+}
+
+#details li {
+    display: flex;
+    flex: 1 auto;
+    position: relative;
+    font: 100% Arial;
+    font-weight: normal;
+    margin: 0 0 0.5% 18%;
+}
+
+#details p {
+    position: relative;
+    font: 100% Arial;
+    font-weight: normal;
+    margin: 0 auto 1% 15%;
+}
+
+#copyright {
+    display: flex;
+    flex: 1 auto;
+	position: relative;
+    font-size: 80%;
+    float: right;
+    margin-left: 3%;
+    color: #b8b6b2;
+}
